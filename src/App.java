@@ -18,6 +18,10 @@ public class App {
 
         int [] lista={1,5,8,6,7};
         
-    
+        var variablegenerica="hola";
+
+        System.out.println(lista[3]);
+
+        System.out.println("cambios git");
     }
 }
